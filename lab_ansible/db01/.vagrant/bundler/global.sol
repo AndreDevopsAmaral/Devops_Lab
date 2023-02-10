@@ -1,0 +1,1 @@
+{"dependencies":[["log4r",[">= 0"]],["concurrent-ruby",["~> 1.0"]],["i18n",[">= 0"]],["micromachine",[">= 2","< 4"]],["vagrant-vbguest",["= 0.21.0"]],["vagrant-winnfsd",["= 1.4.0"]]],"checksum":"abc5dba9221ef44eac36eaafcd41d50df6244a074417d084923c5d3b21c96c6a","vagrant_version":"2.3.4"}
